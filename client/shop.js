@@ -10,7 +10,7 @@ const Shop = (() => {
             }
             onload( xhr.response );
         };
-        xhr.open( 'GET', 'server/data/products.json' );
+        xhr.open( 'GET', 'data/products.json' );
         xhr.send();
     },
     renderProducts = options => {
