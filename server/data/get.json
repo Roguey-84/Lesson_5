@@ -1,0 +1,11 @@
+{
+  "result": true,
+  "basket": [
+    {
+      "id": 1,
+      "title": "Бобр",
+      "price": 100
+    }
+  ],
+  "amount": 100
+}
